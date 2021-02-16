@@ -1,0 +1,32 @@
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/bin/Debug/netcoreapp3.1/Laboratorio_1.deps.json
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/bin/Debug/netcoreapp3.1/Laboratorio_1.runtimeconfig.json
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/bin/Debug/netcoreapp3.1/Laboratorio_1.runtimeconfig.dev.json
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/bin/Debug/netcoreapp3.1/Laboratorio_1.dll
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/bin/Debug/netcoreapp3.1/Laboratorio_1.pdb
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.csprojAssemblyReference.cache
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.AssemblyInfoInputs.cache
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.AssemblyInfo.cs
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.csproj.CoreCompileInputs.cache
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.dll
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.pdb
+/Users/rossydlsantos/Desktop/CAM/Laboratorio_1/Laboratorio_1/obj/Debug/netcoreapp3.1/Laboratorio_1.genruntimeconfig.cache
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\Laboratorio_1.exe
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\Laboratorio_1.deps.json
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\Laboratorio_1.runtimeconfig.json
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\Laboratorio_1.runtimeconfig.dev.json
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\Laboratorio_1.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\Laboratorio_1.pdb
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.AssemblyInfo.cs
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.pdb
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.genruntimeconfig.cache
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\INS215L_No.1_1093141_Camila De Los Santos\INS215L_No.1_1093141_Camila De Los Santos\Laboratorio_1\obj\Debug\netcoreapp3.1\Laboratorio_1.csproj.CopyComplete
